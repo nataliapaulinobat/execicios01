@@ -76,12 +76,12 @@
         git commit -m "Adiciona .gitignore para ignorar arquivos .txt"
 ### M - Criar um arquivo novo.txt e verificar o status
 1. Comando:
-        ```bash
+    ```bash
         echo "conteúdo" > novo.txt
         git status
-        
+
 2. Saída de tela:
-        On branch main
+        ```On branch main
         Untracked files:
     (use "git add <file>..." to include in what will be committed)
         novo.txt
