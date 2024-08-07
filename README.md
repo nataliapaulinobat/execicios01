@@ -79,7 +79,8 @@
         ```bash
         echo "conteúdo" > novo.txt
         git status
-    2. Saída de tela:
+        
+2. Saída de tela:
         On branch main
         Untracked files:
     (use "git add <file>..." to include in what will be committed)
