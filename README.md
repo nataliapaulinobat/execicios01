@@ -81,7 +81,7 @@
         git status
 
 2. Saída de tela:
-        ```On branch main
+    ```On branch main
         Untracked files:
     (use "git add <file>..." to include in what will be committed)
         novo.txt
