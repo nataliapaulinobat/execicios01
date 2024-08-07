@@ -11,9 +11,9 @@
     ```bash
     git add arquivo.txt
     git status
+
  2. Saída de tela após adicionar o arquivo no staging:
- 
-    plaintext
+    ```plaintext
     On branch main
     Changes to be committed:
   (use "git restore --staged <file>..." to unstage)
