@@ -7,11 +7,12 @@
    ```bash
    echo 01 > arquivo.txt
 ### B - Adicionar o arquivo no staging e conferir o status
-    Comandos:
+1. Comando:
     ```bash
     git add arquivo.txt
     git status
-    Saída de tela após adicionar o arquivo no staging:
+ 2. Saída de tela após adicionar o arquivo no staging:
+ 
     plaintext
     On branch main
     Changes to be committed:
